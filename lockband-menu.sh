@@ -1,4 +1,3 @@
-# lockband-menu.sh
 #!/bin/sh
 
 PORT="/dev/ttyUSB2"  # Ganti jika port AT modem beda
